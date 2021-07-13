@@ -1,0 +1,13 @@
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.exe
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.deps.json
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.json
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.dev.json
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.pdb
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.csprojAssemblyReference.cache
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfoInputs.cache
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfo.cs
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.pdb
+C:\Users\Benas\Desktop\net-projects\Console-Calculator-master\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.genruntimeconfig.cache
